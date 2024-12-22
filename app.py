@@ -25,7 +25,7 @@ safety_settings = [
 ]
 
 # Model name
-MODEL_NAME = "gemini-exp-1206"
+MODEL_NAME = "gemini-2.0-flash-exp"
 
 # Framework selection (e.g., Tailwind, Bootstrap, etc.)
 framework = "Regular CSS use flex grid etc"  # Change this to "Bootstrap" or any other framework as needed
